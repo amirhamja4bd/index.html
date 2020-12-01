@@ -1,0 +1,110 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.flag{
+	position: relative;
+	background: green;
+	width: 400px;
+	height: 200px;
+}
+.lal{
+	position: absolute;
+	background: red;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+}
+.sq{
+	background: blue;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.rec{
+	background: yellow;
+	width: 400px;
+	height: 200px;
+	float: left;
+}
+.circle{
+	background: powderblue;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	float: left;
+}
+.oval{
+	background: hotpink;
+	width: 300px;
+	height: 200px;
+	border-radius: 50%;
+	float: left;
+}
+.triup{
+	background: ;
+	width: 0;
+	height: 0;
+	float: left;
+	border-bottom: 200px solid indigo;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+}
+.tridw{
+	width: 0;
+	height: 0;
+	float: left;
+	border-top: 200px solid tomato;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+}
+.tril{
+	width: 0;
+	height: 0;
+	float: left;
+	border-right: 200px solid #8c708a;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+}
+.trir{
+	width: 0;
+	height: 0;
+	float: left;
+	border-left: 200px solid #0aff1d;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+}
+.name{
+	color: ;
+	text-align: center;
+	margin-top: 80px;
+}
+.name1{
+	color: white;
+	text-align: center;
+    margin-top: 122px;
+    margin-left: -40px;
+}
+.name2{
+	color: ;
+	    text-align: center;
+    margin-top: -150px;
+    margin-left: -33px;
+}
+.name3{
+	color:;
+	text-align: center;
+    margin-top: -21px;
+    margin-left: 90px;
+}
+.name4{
+	color:;
+	text-align: center;
+    margin-top: -7px;
+    margin-left: -251px;
+}
